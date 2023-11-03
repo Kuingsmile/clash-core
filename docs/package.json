@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "directory-tree": "^3.5.1",
+    "markdown-yaml-metadata-parser": "^3.0.0",
+    "vitepress": "1.0.0-rc.4"
+  }
+}
